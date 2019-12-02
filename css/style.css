@@ -222,7 +222,7 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 	left: 0;
 	bottom: 0;
 	padding: 0;
-	background: url(../img/Residences/1920-1080/4.png) center center no-repeat;
+	background: url(../img/cover.jpg) center center no-repeat;
 	background-color: #e5e5e5;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
@@ -236,17 +236,20 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 	background: rgba(0,0,0,0.6);
 }
 .intro h1 {
-	font-family: 'Raleway', sans-serif;
+	font-family: 'Arial Narrow', Arial, sans-serif;
 	color: #fff;
 	font-size: 75px;
-	font-weight: 700;
-	text-transform: uppercase;
+	font-weight: 400;
+	/*text-transform: uppercase;*/
 	margin-top: 0;
 	margin-bottom: 10px;
 }
 .intro h1 span {
 	
 	color: #ac233a;
+}
+.intro h1 span.uppercase{
+	text-transform: uppercase;
 }
 .intro p {
 	color: #fff;
@@ -1032,3 +1035,4 @@ li.dropdown {
 
 
 	}
+
