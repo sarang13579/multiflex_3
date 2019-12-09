@@ -479,8 +479,12 @@ header .intro-text {
 /* Contact Section */
 #contact {
 	padding: 100px 0 160px 0;
-	background: linear-gradient(to right, #053045 0%, #0e5a7f 100%);
-	color: rgba(255,255,255,.75);
+
+	background-color: white;
+	/*background: linear-gradient(to right, #053045 0%, #0e5a7f 100%);*/    /* CHANGE*/
+	/*color: rgba(255,255,255,.75);*/ 										/* CHANGE*/
+
+	color:black;															/* CHANGE*/
 }
 #contact .section-title {
 	margin-bottom: 40px;
@@ -489,7 +493,8 @@ header .intro-text {
 	font-size: 16px;
 }
 #contact h2 {
-	color: #fff;
+	/*color: #fff;*/	
+	color: #333;									/* CHANGE*/					
 	margin-top: 10px;
 	margin-bottom: 15px;
 	padding-bottom: 15px;
@@ -507,7 +512,8 @@ header .intro-text {
 	left: 30px;
 }
 #contact h3 {
-	color: #fff;
+	/*color: #fff;*/
+	color: #333;
 	margin-top: 30px;
 	margin-bottom: 20px;
 	padding-bottom: 20px;
@@ -523,7 +529,9 @@ header .intro-text {
 #contact .btn-custom {
 	margin: 30px 0;
 	background: transparent;
-	border: 2px solid #fff;
+	/*border: 2px solid #fff;*/			/*CHANGE*/
+	border: 2px solid #333;
+	color: #333;
 }
 #contact .btn-custom:hover {
 	color: #1f386e;
@@ -574,7 +582,8 @@ label {
 	margin: 20px 0;
 }
 #contact .contact-item span {
-	color: rgba(255,255,255,1);
+	/*color: rgba(255,255,255,1);*/
+	color: #333;
 	margin-bottom: 10px;
 	display: block;
 }
@@ -683,7 +692,7 @@ label {
 
 	/* Footer Section*/
 	#footer {
-		background: #000;
+		background: #333;
 
 		width: 100%;
 	}
