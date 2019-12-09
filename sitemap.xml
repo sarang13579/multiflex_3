@@ -8,8 +8,44 @@
 
 
 <url>
-  <loc>http://multiflexmodular.com/</loc>
-  <lastmod>2019-12-09T09:52:15+00:00</lastmod>
+  <loc>http://www.multiflexmodular.com/</loc>
+  <lastmod>2019-12-09T17:14:26+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://www.multiflexmodular.com/index.html</loc>
+  <lastmod>2019-12-09T17:14:26+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.multiflexmodular.com/wardrobes.html</loc>
+  <lastmod>2019-12-09T17:54:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.multiflexmodular.com/hospitality.html</loc>
+  <lastmod>2019-12-09T17:54:19+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.multiflexmodular.com/residencies.html</loc>
+  <lastmod>2019-12-09T17:14:30+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.multiflexmodular.com/office.html</loc>
+  <lastmod>2019-12-09T17:14:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.multiflexmodular.com/machinery.html</loc>
+  <lastmod>2019-12-09T17:54:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.multiflexmodular.com/experience.html</loc>
+  <lastmod>2019-12-09T17:54:20+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 
 
