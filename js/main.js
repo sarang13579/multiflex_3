@@ -317,3 +317,103 @@ var initPhotoSwipeFromDOM = function(gallerySelector) {
 
 // execute above function
 initPhotoSwipeFromDOM('.my-gallery');
+
+
+
+var status = "less";
+
+function toggleText()
+{
+    var text="Mr Anand Quadros, you have great enterprise in your simplicity of handling all requirements to picture - perfect clarity. It is admirable! We are always impressed with the engineering skill and precision of your execution and the rapid, smooth and clean installation on site by your knowledgeable technicians. We are extremely satisfied with your furniture product quality and happy to involve you in many more projects ... Good Luck and keep up the finesse in detail & quality. Thanks for everything";
+    
+
+
+    if (status == "less") {
+        document.getElementById("textArea").innerHTML=text;
+        
+        
+        document.getElementById("toggleButton").innerText = "See Less";
+        status = "more";
+    } else if (status == "more") {
+        document.getElementById("textArea").innerHTML ="";
+        
+        
+        document.getElementById("toggleButton").innerText = "See More";
+        status = "less"
+    }
+}
+
+function toggleText2(){
+
+    var text2="We wholeheartedly recommend the services of M/s Multiflex to any company requiring quality and timely completion of any system & loose furniture for offices & Residential projects. Particularly we thank Mr. Mr Ashok, Mr Anand, Mr Reuben and Mr Joseph., for their personal involvement in understanding our requirement & coordinating till the delivery & installation"
+   
+
+    if (status == "less") {
+       
+        document.getElementById("textArea2").innerHTML=text2;
+        
+        
+        document.getElementById("toggleButton").innerText = "See Less";
+        status = "more";
+    } else if (status == "more") {
+        
+        document.getElementById("textArea2").innerHTML="";
+        
+        
+        document.getElementById("toggleButton").innerText = "See More";
+        status = "less"
+    }
+
+
+
+
+}
+
+
+function toggleText3(){
+
+    var text3="Rueben understands drawing and detailing very well, Anand shares the passion for new textures & innovative technology with me and Ashok’s understanding of global trends is impressive. Their overall commitment to quality is appreciable"
+   
+
+    if (status == "less") {
+       
+        document.getElementById("textArea3").innerHTML=text3;
+
+        
+        document.getElementById("toggleButton").innerText = "See Less";
+        status = "more";
+    } else if (status == "more") {
+       
+        document.getElementById("textArea3").innerHTML="";
+
+        
+        document.getElementById("toggleButton").innerText = "See More";
+        status = "less"
+    }
+
+
+}
+
+
+function toggleText4(){
+
+   
+    var text4="With their production setup, they have no problem on volume orders without compromising on quality & deliver time. As an Architect and Furniture Designer, I have very often twisted detail & mixed elements & materials to achieve amazing products with Multiflex on their machines in custom furniture, workspace modularity, hospitality & home furniture, kitchens storage designs and many more. We have worked well in a design production relationship with the output far exceeding my expectations over & over again. I recommend Multiflex highly to anyone who wishes to use them. Their dedication to precision is immaculate & understanding of detail outstanding to say the least."
+
+
+    if (status == "less") {
+        
+        document.getElementById("textArea4").innerHTML=text4;
+        
+        document.getElementById("toggleButton").innerText = "See Less";
+        status = "more";
+    } else if (status == "more") {
+        
+        document.getElementById("textArea4").innerHTML="";
+        
+        document.getElementById("toggleButton").innerText = "See More";
+        status = "less"
+    }
+
+
+}
