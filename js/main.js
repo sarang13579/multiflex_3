@@ -353,14 +353,14 @@ function toggleText2(){
         document.getElementById("textArea2").innerHTML=text2;
         
         
-        document.getElementById("toggleButton").innerText = "See Less";
+        document.getElementById("toggleButton2").innerText = "See Less";
         status = "more";
     } else if (status == "more") {
         
         document.getElementById("textArea2").innerHTML="";
         
         
-        document.getElementById("toggleButton").innerText = "See More";
+        document.getElementById("toggleButton2").innerText = "See More";
         status = "less"
     }
 
@@ -380,14 +380,14 @@ function toggleText3(){
         document.getElementById("textArea3").innerHTML=text3;
 
         
-        document.getElementById("toggleButton").innerText = "See Less";
+        document.getElementById("toggleButton3").innerText = "See Less";
         status = "more";
     } else if (status == "more") {
        
         document.getElementById("textArea3").innerHTML="";
 
         
-        document.getElementById("toggleButton").innerText = "See More";
+        document.getElementById("toggleButton3").innerText = "See More";
         status = "less"
     }
 
@@ -405,13 +405,13 @@ function toggleText4(){
         
         document.getElementById("textArea4").innerHTML=text4;
         
-        document.getElementById("toggleButton").innerText = "See Less";
+        document.getElementById("toggleButton4").innerText = "See Less";
         status = "more";
     } else if (status == "more") {
         
         document.getElementById("textArea4").innerHTML="";
         
-        document.getElementById("toggleButton").innerText = "See More";
+        document.getElementById("toggleButton4").innerText = "See More";
         status = "less"
     }
 
