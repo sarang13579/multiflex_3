@@ -345,7 +345,7 @@ function toggleText()
 
 function toggleText2(){
 
-    var text2="We wholeheartedly recommend the services of M/s Multiflex to any company requiring quality and timely completion of any system & loose furniture for offices & Residential projects. Particularly we thank Mr. Mr Ashok, Mr Anand, Mr Reuben and Mr Joseph., for their personal involvement in understanding our requirement & coordinating till the delivery & installation"
+    var text2="We wholeheartedly recommend the services of M/s Multiflex to any company requiring quality and timely completion of any system & loose furniture for offices & Residential projects. Particularly we thank Mr. Ashok, Mr Anand, Mr Reuben and Mr Joseph., for their personal involvement in understanding our requirement & coordinating till the delivery & installation"
    
 
     if (status == "less") {
