@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 1701 1701" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-miterlimit:22.9256;">
+    <g transform="matrix(1,0,0,1,0.0400088,0.0384088)">
+        <g transform="matrix(1,0,0,1,-3734.51,-36.9174)">
+            <rect x="3741.01" y="43.419" width="1687.29" height="1687.29" style="fill:white;stroke:rgb(43,42,41);stroke-width:0.57px;"/>
+        </g>
+        <g transform="matrix(1,0,0,1,-3734.51,-36.9174)">
+            <g transform="matrix(1,0,0,1,3756.96,1045.44)">
+                <text x="0px" y="0px" style="font-family:'SegoeUI-Light', 'Segoe UI', sans-serif;font-weight:300;font-size:435.096px;fill:rgb(0,33,71);stroke:rgb(0,33,71);stroke-width:0.22px;">Multi</text>
+            </g>
+        </g>
+        <g transform="matrix(1,0,0,1,-3734.51,-36.9174)">
+            <g transform="matrix(1,0,0,1,4659.78,1045.44)">
+                <text x="0px" y="0px" style="font-family:'SegoeUI-Light', 'Segoe UI', sans-serif;font-weight:300;font-size:435.096px;fill:rgb(155,17,30);stroke:rgb(155,17,30);stroke-width:0.22px;">Flex</text>
+            </g>
+        </g>
+        <g transform="matrix(1,0,0,1,-3734.51,-36.9174)">
+            <rect x="3809.22" y="673.951" width="1550.87" height="25.662" style="fill:rgb(0,33,71);stroke:rgb(0,33,71);stroke-width:0.57px;"/>
+        </g>
+        <g transform="matrix(1,0,0,1,-3734.51,-36.9174)">
+            <rect x="4679.57" y="673.951" width="680.515" height="25.662" style="fill:rgb(155,17,30);stroke:rgb(155,17,30);stroke-width:0.57px;"/>
+        </g>
+        <g transform="matrix(1,0,0,1,-3734.51,-36.9174)">
+            <g id="_3085878849536">
+                <path d="M4615.37,756.791L4615.37,773.094C4606.37,773.094 4599.07,765.796 4599.07,756.791C4599.07,747.788 4606.37,740.488 4615.37,740.488L4615.37,756.791Z" style="fill:rgb(0,33,71);stroke:rgb(0,33,71);stroke-width:0.57px;"/>
+                <path d="M4615.37,756.791L4615.37,740.488C4624.38,740.488 4631.68,747.787 4631.68,756.791C4631.68,765.795 4624.38,773.094 4615.37,773.094L4615.37,756.791Z" style="fill:rgb(155,17,30);stroke:rgb(155,17,30);stroke-width:0.57px;"/>
+            </g>
+        </g>
+        <g transform="matrix(1,0,0,1,-3734.51,-36.9174)">
+            <g transform="matrix(1,0,0,1,3756.96,1045.44)">
+                <text x="0px" y="0px" style="font-family:'SegoeUI-Light', 'Segoe UI', sans-serif;font-weight:300;font-size:435.096px;fill:rgb(0,33,71);stroke:rgb(0,33,71);stroke-width:0.22px;">Multi</text>
+            </g>
+        </g>
+        <g transform="matrix(1,0,0,1,-3734.51,-36.9174)">
+            <g transform="matrix(1,0,0,1,4659.78,1045.44)">
+                <text x="0px" y="0px" style="font-family:'SegoeUI-Light', 'Segoe UI', sans-serif;font-weight:300;font-size:435.096px;fill:rgb(155,17,30);stroke:rgb(155,17,30);stroke-width:0.22px;">Flex</text>
+            </g>
+        </g>
+        <g transform="matrix(1,0,0,1,-3734.51,-36.9174)">
+            <rect x="3809.22" y="673.951" width="1550.87" height="25.662" style="fill:rgb(0,33,71);stroke:rgb(0,33,71);stroke-width:0.57px;"/>
+        </g>
+        <g transform="matrix(1,0,0,1,-3734.51,-36.9174)">
+            <rect x="4679.57" y="673.951" width="680.515" height="25.662" style="fill:rgb(155,17,30);stroke:rgb(155,17,30);stroke-width:0.57px;"/>
+        </g>
+        <g transform="matrix(1,0,0,1,-3734.51,-36.9174)">
+            <g id="_3085878839936">
+                <path d="M4615.37,756.791L4615.37,773.094C4606.37,773.094 4599.07,765.796 4599.07,756.791C4599.07,747.788 4606.37,740.488 4615.37,740.488L4615.37,756.791Z" style="fill:rgb(0,33,71);stroke:rgb(0,33,71);stroke-width:0.57px;"/>
+                <path d="M4615.37,756.791L4615.37,740.488C4624.38,740.488 4631.68,747.787 4631.68,756.791C4631.68,765.795 4624.38,773.094 4615.37,773.094L4615.37,756.791Z" style="fill:rgb(155,17,30);stroke:rgb(155,17,30);stroke-width:0.57px;"/>
+            </g>
+        </g>
+    </g>
+</svg>
