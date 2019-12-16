@@ -987,10 +987,6 @@ li.dropdown {
 	}
 
 
-	#logo img {
-		position: relative;
-		bottom: 30px;
-	}
 	
 
 
@@ -1049,10 +1045,7 @@ li.dropdown {
 			margin: 5px 10px 0 10px;
 		}
 
-		#logo img {
-			position: relative;
-			bottom: 30px;
-		}
+	
 
 
 	}
@@ -1075,3 +1068,8 @@ li.dropdown {
 
 	}
 
+
+	#logo img {
+		position: relative;
+		bottom: 30px;
+	}
