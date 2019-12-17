@@ -244,10 +244,15 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 	margin-top: 0;
 	margin-bottom: 10px;
 }
-.intro h1 span {
+.intro h1 span.highlight1 {
 	
-	color: #861a22;
+	color: #002147;
 }
+.intro h1 span.highlight2 {
+	
+	color: #9B111E;
+}
+
 .intro h1 span.uppercase{
 	text-transform: uppercase;
 }
