@@ -1,4 +1,9 @@
 User-agent: *
-Allow: /
+Disallow: /contact.php
+Disallow: /about.php
+Disallow: /gallery.php
+Disallow: /solution.php
+Disallow: /home
+
 
 Sitemap: http://multiflexmodular.com/sitemap.xml
